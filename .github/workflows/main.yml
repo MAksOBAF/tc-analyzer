@@ -1,0 +1,28 @@
+name: Build macOS App
+on: [push, workflow_dispatch]
+
+jobs:
+  build:
+    runs-on: macos-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install customtkinter matplotlib numpy pyinstaller
+
+      - name: Build with PyInstaller
+        run: |
+          python3 -m PyInstaller --windowed --onefile --collect-all customtkinter --name "TC_Analyzer" app.py
+
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: macOS-App
+          path: dist/TC_Analyzer.app
