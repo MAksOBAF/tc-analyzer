@@ -55,6 +55,7 @@ Every line of code, every UI element, the compilation process for Windows, and e
 
 * Английскую версию не успел сделать если кото-то хочет может сам перевести
 
-<img width="1402" height="1075" alt="image" src="https://github.com/user-attachments/assets/35f8f755-bb43-42d6-8765-9c8e80ff16ef" />
+<img width="1402" height="1075" alt="Снимок экрана 2026-04-28 215749" src="https://github.com/user-attachments/assets/7ab20d6c-29bd-4166-8fc7-ff930586139e" />
+
 
   
