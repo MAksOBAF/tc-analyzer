@@ -14,6 +14,9 @@ Every line of code, every UI element, the compilation process for Windows, and e
 * 🎨 **Modern UI:** Built with CustomTkinter for a sleek, dark-mode experience.
 * 🌍 **Cross-Platform:** Available as a Windows Installer (.exe) and a macOS App (.app).
 
+* I didn't have time to make an English version, but if anyone wants, they can translate it themselves.
+
+
   
 
 * # 📊 Telegram Chat Analyzer Pro
@@ -33,3 +36,9 @@ Every line of code, every UI element, the compilation process for Windows, and e
 * 👥 **Топ участников:** Узнайте, кто самый активный собеседник в чате.
 * 🎨 **Современный дизайн:** Стильный темный интерфейс на базе CustomTkinter.
 * 🌍 **Кроссплатформенность:** Доступно в виде установщика для Windows (.exe) и приложения для macOS (.app).
+
+* Английскую версию не успел сделать если кото-то хочет может сам перевести
+
+<img width="1402" height="1075" alt="image" src="https://github.com/user-attachments/assets/35f8f755-bb43-42d6-8765-9c8e80ff16ef" />
+
+  
