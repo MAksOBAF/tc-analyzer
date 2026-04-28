@@ -14,6 +14,14 @@ Every line of code, every UI element, the compilation process for Windows, and e
 * 🎨 **Modern UI:** Built with CustomTkinter for a sleek, dark-mode experience.
 * 🌍 **Cross-Platform:** Available as a Windows Installer (.exe) and a macOS App (.app).
 
+* ### 🇬🇧 English:
+1. Open **Telegram Desktop** on your PC.
+2. Go to the chat or group you want to analyze.
+3. Click the three dots (menu) in the top right corner -> **Export chat history**.
+4. **Crucial:** Uncheck all media (photos, videos) for a faster export.
+5. **Important:** Change the format from HTML to **JSON**.
+6. Click "Export". Use the resulting `result.json` file in this app.
+
 * I didn't have time to make an English version, but if anyone wants, they can translate it themselves.
 
 
@@ -36,6 +44,14 @@ Every line of code, every UI element, the compilation process for Windows, and e
 * 👥 **Топ участников:** Узнайте, кто самый активный собеседник в чате.
 * 🎨 **Современный дизайн:** Стильный темный интерфейс на базе CustomTkinter.
 * 🌍 **Кроссплатформенность:** Доступно в виде установщика для Windows (.exe) и приложения для macOS (.app).
+
+* ### 🇷🇺 Инструкция:
+1. Откройте **Telegram Desktop** на компьютере.
+2. Выберите нужный чат или группу.
+3. Нажмите на три точки (меню) в верхнем правом углу -> **Экспорт истории чата**.
+4. В появившемся окне **обязательно** снимите галочки со всех медиафайлов (фото, видео), чтобы экспорт прошел быстро.
+5. **Важно:** В поле "Формат" выберите **JSON** (не HTML!).
+6. Нажмите "Экспортировать". Полученный файл `result.json` выберите в программе.
 
 * Английскую версию не успел сделать если кото-то хочет может сам перевести
 
